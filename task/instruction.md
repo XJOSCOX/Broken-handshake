@@ -11,3 +11,5 @@ Success criteria:
    request count.
 6. The report contains `top_path`, the most requested path. If there is a tie, choose
    the lexicographically smallest path among the tied paths.
+
+You have 120 seconds to complete the task.
