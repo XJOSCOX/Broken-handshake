@@ -1,8 +1,6 @@
 Analyze the Apache-style access log at `/app/access.log` and write a JSON report to
 `/app/report.json`.
 
-Success criteria:
-
 1. The report is valid JSON.
 2. The report contains `total_requests` with the total number of non-empty log lines.
 3. The report contains `unique_clients` with the number of distinct client IPs.
@@ -12,4 +10,4 @@ Success criteria:
 6. The report contains `top_path`, the most requested path. If there is a tie, choose
    the lexicographically smallest path among the tied paths.
 
-You have 120 seconds to complete the task.
+You have 120 seconds to complete this task. Do not cheat by using online solutions or hints specific to this task.
